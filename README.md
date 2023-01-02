@@ -10,3 +10,4 @@ Used resources:<br>
 <a href="https://tobiasahlin.com/spinkit/">SpinKit loading page</a> by Tobias Ahlin.<br>
 <a href="https://github.com/IvanJosipovic/BlazorFileSaver">BlazorFileSaver</a> by Ivan Josipovic.
 
+The source code is available here: https://github.com/Rafbor42/RafCalc
